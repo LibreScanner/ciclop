@@ -17,8 +17,10 @@ Directory structure
  * `stl`: Ciclop STL files. It also contains parts with support for 3D printing
 
  * `dxf`: Ciclop DXF files. It contains all methacrylate pieces cutted with laser
- 
-* `freecad`: Ciclop source files in [FreeCAD](http://www.freecadweb.org/). This is a work in progress. All the original files are being migrated to Freecad (see below)
+
+ * `svg`: Ciclop SVG files. This folder contains all drawings for 2D printing
+
+ * `freecad`: Ciclop source files in [FreeCAD](http://www.freecadweb.org/). This is a work in progress. All the original files are being migrated to Freecad (see below)
 
  * `Ciclop-BOM.ods`: Ciclop Bill of Materials. Document for [LibreOffice](https://www.libreoffice.org/)
 
