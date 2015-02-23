@@ -1,7 +1,7 @@
 Ciclop
 ======
 
-In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/presentacion-ciclop-horus/). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/ciclop/issues).
+In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/presentacion-ciclop-horus/) [[es](http://diwo.bq.com/presentacion-ciclop-horus/)]. If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/ciclop/issues).
 
 # License 
 
