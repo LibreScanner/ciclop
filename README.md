@@ -1,16 +1,16 @@
-Ciclop
-======
+# Ciclop
 
-In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/presentacion-ciclop-horus/) [[es](http://diwo.bq.com/presentacion-ciclop-horus/)]. If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/ciclop/issues).
+In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/tag/ciclop) [[es](http://diwo.bq.com/tag/ciclop)]. If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/ciclop/issues).
 
-# License 
+Ciclop may be controlled by Horus software. You can find here the [firmware](https://github.com/bq/horus-fw) and the [desktop application](https://github.com/bq/horus).
+
+## License 
 
 Ciclop is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Please read the LICENSE file for more details.
 
-Directory structure
-===================
+## Directory structure
 
  * `step`: The original Ciclop step files. This folder is frozen. Find the latest version in the `freecad` folder
 
