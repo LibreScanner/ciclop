@@ -1,8 +1,8 @@
 # Ciclop
 
-In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/tag/ciclop) [[es](http://diwo.bq.com/tag/ciclop)]. Also in [thingiverse](http://www.thingiverse.com/thing:740357). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/ciclop/issues).
+In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/tag/ciclop) [[es](http://diwo.bq.com/tag/ciclop)]. Also in [thingiverse](http://www.thingiverse.com/thing:740357). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bqlabs/ciclop/issues).
 
-Ciclop may be controlled by Horus software. You can find here the [firmware](https://github.com/bq/horus-fw) and the [desktop application](https://github.com/bq/horus).
+Ciclop may be controlled by Horus software. You can find here the [firmware](https://github.com/bqlabs/horus-fw) and the [desktop application](https://github.com/bqlabs/horus).
 
 ## License 
 
