@@ -2,6 +2,8 @@
 
 In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/tag/ciclop) [[es](http://diwo.bq.com/tag/ciclop)]. Also in [thingiverse](http://www.thingiverse.com/thing:740357). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bqlabs/ciclop/issues).
 
+![][ciclop]
+
 Ciclop may be controlled by Horus software. You can find here the [firmware](https://github.com/bqlabs/horus-fw) and the [desktop application](https://github.com/bqlabs/horus).
 
 ## License 
@@ -24,4 +26,9 @@ Please read the LICENSE file for more details.
 
  * `Ciclop-BOM.ods`: Ciclop Bill of Materials. Document for [LibreOffice](https://www.libreoffice.org/)
 
+![][ciclop-parts]
+
 **Please note**: The original Ciclop design was made in Autodesk Inventor(tm) which is proprietary software. Since we love open formats we are migrating the Ciclop parts to [FreeCAD](http://www.freecadweb.org/), which is a multiplatform open source CAD software. We invite people from the community to join us and help us to complete the task.
+
+[ciclop]: doc/images/ciclop.jpg
+[ciclop-parts]: doc/images/ciclop-parts.jpg
